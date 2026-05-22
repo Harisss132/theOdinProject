@@ -1,0 +1,31 @@
+#main {
+    background-color: rgb(204, 204, 204);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    display: block;
+    width: 300px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.description,
+.ingredients,
+.direction {
+    display: block;
+    text-align: left;
+}
+
+.description {
+    background-color: azure;
+}
+
+.ingredients {
+    background-color: rgb(195, 195, 255);
+}
+
+.direction {
+    background-color: rgb(255, 255, 141);
+}
